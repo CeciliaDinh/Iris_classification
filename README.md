@@ -1,3 +1,2 @@
-# Lets-grow-more-data-science-intern
-There are Machine Learning models that I've built as part of my internship at Lets Grow More.
+HELLO WORLD!! I'm doing these two respiratories to practice & revise things that I've learnt about REGRESSION ANALYSIS
 
